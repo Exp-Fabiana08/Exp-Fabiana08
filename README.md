@@ -1,6 +1,6 @@
 ### Boas Vindas ao meu perfil🍇
 
-Meu nome é Fabiana 
+Meu nome é Fabiana Aparecida
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem javaScript
